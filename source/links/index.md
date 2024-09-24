@@ -78,7 +78,7 @@ type: links
 
 <div class="container">
         <a href="https://www.microsoftstore.com.cn/hardware/surface" target="_blank" class="card">
-            <img src="https://cdn.microsoftstore.com.cn/static/version12783211/frontend/Microsoft/rwd/zh_Hans_CN/images/microsoft.svg" alt="Avatar" class="avatar">
+            <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="Avatar" class="avatar">
             <div class="content">
                 <h3 class="title">Microsoft Surface</h3>
                 <p class="subtitle">免费存在于你的脑海中</p>
