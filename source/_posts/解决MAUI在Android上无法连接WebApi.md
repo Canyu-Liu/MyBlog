@@ -66,4 +66,4 @@ public class MainApplication : MauiApplication
 我选择使用https，签个ssl证书也不是什么麻烦事。
 
 ## 参考
-[从 Android 仿真器和 iOS 模拟器连接到本地 Web 服务](https://learn.microsoft.com/dotnet/maui/data-cloud/local-web-services?view=net-maui-8.0#enable-clear-text-network-traffic-for-all-domains?wt.mc_id=studentamb_255264)
+[从 Android 仿真器和 iOS 模拟器连接到本地 Web 服务](https://learn.microsoft.com/dotnet/maui/data-cloud/local-web-services?wt.mc_id=studentamb_255264&view=net-maui-8.0#enable-clear-text-network-traffic-for-all-domains)
